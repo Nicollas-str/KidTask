@@ -1,0 +1,12 @@
+name: kidtask
+description: project to help children assist.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  # Add your dependencies here
+
+dev_dependencies:
+  test: ^1.16.0
