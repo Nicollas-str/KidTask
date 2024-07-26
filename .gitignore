@@ -1,0 +1,12 @@
+# Dart specific
+.dart_tool/
+.packages
+build/
+
+# Other
+.idea/
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
